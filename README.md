@@ -7,14 +7,15 @@ NASA: Classificação de Asteroides
 Nesta atividade usarei uma base de dados da NASA disponibilizada pela plataforma KAGGLE para realizar a classificação
 dos asteróides em prerigosos ou não, com base nas características das seguintes variáveis do dataset:
 
-fontes de dados:
+fontes de dados:  
 https://www.kaggle.com/shrutimehta/nasa-asteroids-classification?select=nasa.csv
 
-fonte de estudo do algoritmo:
-https://www.devmedia.com.br/data-mining-na-pratica-algoritmo-k-means/4584
+fonte de estudo do algoritmo:  
+https://www.devmedia.com.br/data-mining-na-pratica-algoritmo-k-means/4584  
 https://minerandodados.com.br/
 
 
+COLUNAS DO DATASET  
 
 Neo Reference ID  -id do asteróide
 Name  - nome do asteróide
